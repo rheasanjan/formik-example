@@ -1,4 +1,4 @@
-#Formik + Yup example
+# Formik + Yup example
 Simple form built with formik with yup validation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
